@@ -26,7 +26,7 @@ I used the provided information to create a table schema for each of the six CSV
 
 Also, I imported each CSV file into its corresponding SQL table.
 
-[Schema]([https://www.example.com](https://github.com/Amarilli/sql_challenge/blob/main/EmployeeSQL/ERD_schema.sql)
+[Schema](https://github.com/Amarilli/sql_challenge/blob/main/EmployeeSQL/ERD_schema.sql)
 
 ## Data Analysis
 
@@ -49,4 +49,4 @@ I selected the data to get:
 
 8. The frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
-   [Analysis](https://github.com/Amarilli/sql_challenge/blob/main/EmployeeSQL/analysis.sql)https://github.com/Amarilli/sql_challenge/blob/main/EmployeeSQL/analysis.sql)
+[Analysis](https://github.com/Amarilli/sql_challenge/blob/main/EmployeeSQL/analysis.sql)
